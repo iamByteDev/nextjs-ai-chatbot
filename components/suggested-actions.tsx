@@ -21,8 +21,8 @@ function PureSuggestedActions({
   const suggestedActions = [
     {
       title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      label: 'of using OvalX?',
+      action: 'What are the advantages of using OvalX?',
     },
     {
       title: 'Write code to',
