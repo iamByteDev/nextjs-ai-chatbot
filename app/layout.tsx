@@ -8,7 +8,7 @@ import { SessionProvider } from 'next-auth/react';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://chat.vercel.ai'),
-  title: 'OvalX Chatbot by iamByte',
+  title: 'OvalX Helper by iamByte',
   description: 'OvalX Chatbot by iamByte',
 };
 
